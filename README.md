@@ -1,4 +1,4 @@
-laravel Base Project
+Laravel Base Project
 =====================
 
 My Base Project with Laravel 4
