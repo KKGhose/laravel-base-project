@@ -37,7 +37,7 @@ return array(
     |
     */
 
-    'timezone' => 'UTC',
+    'timezone' => 'Asia/Tokyo',
     /*
     |--------------------------------------------------------------------------
     | Application Locale Configuration
@@ -49,7 +49,7 @@ return array(
     |
     */
 
-    'locale' => 'en',
+    'locale' => 'ja',
     /*
     |--------------------------------------------------------------------------
     | Application Fallback Locale
@@ -114,7 +114,8 @@ return array(
         'Illuminate\Validation\ValidationServiceProvider',
         'Illuminate\View\ViewServiceProvider',
         'Illuminate\Workbench\WorkbenchServiceProvider',
-
+        'Codesleeve\AssetPipeline\AssetPipelineServiceProvider',
+        'Shin1x1\LaravelTableAdmin\TableAdminServiceProvider',
     ),
     /*
     |--------------------------------------------------------------------------
@@ -179,7 +180,7 @@ return array(
         'URL' => 'Illuminate\Support\Facades\URL',
         'Validator' => 'Illuminate\Support\Facades\Validator',
         'View' => 'Illuminate\Support\Facades\View',
-
+        'TableAdmin' => 'Shin1x1\LaravelTableAdmin\TableAdminFacade',
     ),
 
 );
