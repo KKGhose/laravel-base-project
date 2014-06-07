@@ -1,6 +1,6 @@
 {
-  "name": "laravel/laravel",
-  "description": "The Laravel Framework.",
+  "name": "shin1x1/laravel-base-project",
+  "description": "Base Project with Laravel 4",
   "keywords": ["framework", "laravel"],
   "license": "MIT",
   "require": {
