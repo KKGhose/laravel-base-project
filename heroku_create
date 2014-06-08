@@ -9,4 +9,4 @@ heroku addons:add scheduler
 heroku addons:add sendgrid
 heroku addons:add memcachier
 heroku addons:add papertrail
-heroku addons:add librat
+heroku addons:add librato
