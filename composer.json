@@ -12,6 +12,7 @@
     "phpunit/phpunit": "3.7.*",
     "way/generators": "2.*",
     "barryvdh/laravel-ide-helper": "1.*",
+    "barryvdh/laravel-debugbar": "1.*",
     "mockery/mockery": "dev-master"
   },
   "autoload": {

@@ -8,3 +8,6 @@ composer.lock
 Thumbs.db
 _ide_helper.php
 .idea
+app/storage/debugbar/
+public/packages/barryvdh/
+public/packages/maximebf/
