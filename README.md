@@ -1,6 +1,8 @@
 Laravel Base Project
 =====================
 
+[![Build Status](https://travis-ci.org/shin1x1/laravel-base-project.svg?branch=master)](https://travis-ci.org/shin1x1/laravel-base-project)
+
 My Base Project with Laravel 4
 
 ## Installation
